@@ -23,6 +23,7 @@ class Inicio extends PageBlock
                     ->label("Imagem de capa")
                     ->image()
                     ->imageEditor()
+                
             ]);
     }
 

@@ -21,9 +21,9 @@
                 </div>
                 <div class="buttons-row">
                     <div class="button-wrap-left">
-                        <a class="whats" href="https://whatsa.me/5551997437606/?t=Oi%20me%20chamo%20Gabriel%20Teste%20de%20mensagem">Whats</a>
-                        {{-- <button class="whats" id="whats" type="submit" value="{{$page->blocks[0]['data']['phone']}}"><i class="fab fa-whatsapp"></i>
-                            Whats</button> --}}
+                        {{-- <a class="whats" href="https://whatsa.me/5551997437606/?t=Oi%20me%20chamo%20Gabriel%20Teste%20de%20mensagem">Whats</a> --}}
+                        <button class="whats" id="whats" type="submit" value="{{$page->blocks[0]['data']['phone']}}"><i class="fab fa-whatsapp"></i>
+                            Whats</button>
                     </div>
 
                     {{-- <div class="button-wrap-right">

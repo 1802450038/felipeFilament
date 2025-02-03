@@ -3,7 +3,6 @@
     <div class="img-home">
         <img src="{{asset('storage/' .$homeImage)}}" alt="" srcset="">
     </div>
-    {{-- @dd($page) --}}
     <div class="left">
         <div class="title">
             <div class="name_1">
